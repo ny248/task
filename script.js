@@ -6,3 +6,4 @@ function repeat(str,count){
     return returnString;
 }
 
+document.write(repeat('*', 6));
